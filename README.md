@@ -6,18 +6,6 @@
 ### Video i'm gonna be following
 [The video](https://www.youtube.com/watch?v=GBxo1cf7fDw)
 
-
-## Links for utilities
-
-- [OpCore Simplified](https://github.com/lzhoang2801/OpCore-Simplify)
-- [USB Mapping Tool](https://github.com/USBToolBox/tool)
-- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
-- [OpenCorePKG](https://github.com/acidanthera/OpenCorePkg/releases)
-
-### Video i'm gonna be following
-
-[The video](https://www.youtube.com/watch?v=GBxo1cf7fDw)
-
 ---
 
 ## Step by step process
